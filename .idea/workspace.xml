@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8e3943-b63e-4529-9d4d-4a12abcbd45e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/alipay_trade_sdk_20161215.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -483,7 +483,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952.jar!/" />
     <property name="SearchEverywhereHistoryKey" value="ArithmeticException&#9;PSI&#9;JAVA://java.lang.ArithmeticException&#10;defaultcookiese&#9;FILE&#9;jar:///Users/imooc/.m2/repository/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE-sources.jar!/org/springframework/session/web/http/DefaultCookieSerializer.java&#10;httpsessionstra&#9;PSI&#9;JAVA://org.springframework.session.web.http.HttpSessionStrategy&#10;defaultcookie&#9;PSI&#9;JAVA://org.springframework.session.web.http.DefaultCookieSerializer&#10;prope&#9;PSI&#9;JAVA://com.mmall.util.PropertiesUtil&#10;mmall.pro&#9;FILE&#9;file:///Users/imooc/mmall_learning/src/main/resources.dev/mmall.properties&#10;pom.x&#9;FILE&#9;file:///Users/imooc/mmall_learning/pom.xml&#10;ordercont&#9;FILE&#9;file:///Users/imooc/mmall_learning/src/main/java/com/mmall/controller/portal/OrderController.java&#10;pom.xml&#9;FILE&#9;file:///Users/imooc/mmall_learning/pom.xml" />
-    <property name="FullScreen" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
@@ -1213,16 +1212,16 @@
       <workItem from="1513354174819" duration="1366000" />
       <workItem from="1514246957993" duration="646000" />
       <workItem from="1514248038541" duration="9735000" />
-      <workItem from="1518068149759" duration="1167000" />
+      <workItem from="1518068149759" duration="1691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150421000" />
+    <option name="totallyTimeSpent" value="150945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1296,6 +1295,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
